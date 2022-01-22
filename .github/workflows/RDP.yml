@@ -1,4 +1,4 @@
-name: RDP_Windows10
+name: CI
 
 on: workflow_dispatch
 
